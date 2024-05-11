@@ -58,6 +58,8 @@ terraform apply
 
 When you no longer need the infrastructure, you can destroy it using the following command
 
+---
+
 ```bash
 terraform destroy
 ```
