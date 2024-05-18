@@ -1,6 +1,6 @@
 # Final project: Infrastructure for Microservices with Terraform
 
-This project uses the concepts acquired during the course to create an infrastructure for microservices using Terraform version `1.7.5.`
+This project uses the concepts acquired during the course to create an infrastructure for microservices using Terraform version `1.7.5`
 
 ## Project description
 
